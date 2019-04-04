@@ -1,3 +1,3 @@
 This document explains procedures for Seaprog volunteers.
 
-The document includes a number of hands-on exercises. You will be given a quiz at the conclusion of the training.
+The document includes a number of hands-on exercises. You will be given an evaluation at the conclusion of the training.

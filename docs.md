@@ -1,3 +1,3 @@
 This document explains procedures for Seaprog volunteers.
 
-The document includes a number of exercises. You will be evaluated when you finish this training.
+The document contains a number of exercises. You will be evaluated when you complete this training.
